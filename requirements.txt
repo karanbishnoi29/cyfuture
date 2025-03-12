@@ -1,1 +1,5 @@
+flask
+spacy
+rasa
+gunicorn
 
